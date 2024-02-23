@@ -10,8 +10,8 @@
 
 
 body {
-    background-color: rgb(0, 0, 0);
-    color: aliceblue;
+    background-color: rgb(8, 8, 8);
+    color: rgb(238, 228, 228);
 }
 
 nav {
@@ -94,9 +94,9 @@ p {
     left: 40px;
     font-size: 18.5px;
     line-height: 25px;
-    font-family:  'Courier New', Courier, monospace;
+    font-family: 'Courier New', Courier, monospace;
     text-indent: 1.5em;
-    
+
 }
 
 video {
@@ -108,7 +108,7 @@ video {
 
 }
 
-.formb{
+.formb {
     width: 100px;
     height: 25px;
     border-radius: 20px;
@@ -118,14 +118,79 @@ video {
     font-size: 17px;
     cursor: grab;
 
+
+
 }
 
-.form{
-    width: 150px;
+.form {
+    width: 155px;
     margin-left: 1200px;
     height: 22px;
     border-radius: 10px;
     border: none;
     padding: 10px;
     cursor: text;
+
+
+}
+
+
+h3 {
+    color: aliceblue;
+    position: fixed;
+    bottom: 500px;
+    margin-left: 1100px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.listas {
+    color: rgb(228, 234, 234);
+    margin-left: 1200px;
+    position: fixed;
+    bottom: 300px;
+}
+
+
+
+
+
+@media screen and (max-width:700px) {
+    nav {
+        background-color: rgb(242, 28, 145); 
+        height: 180px;
+        text-decoration: none;
+        border: none;
+        border-radius: 20px;
+        display: inline-block;
+        font-size: 5px;
+        font-family: 'Lemon', serif;
+    }
+
+
+    h1 {
+        font-family: 'Lemon', serif;
+        margin-left: 8px;
+        font-size: 35px;
+        top: 50px;
+        position: absolute;
+        text-align: center;
+        box-shadow: 0px 2.5px 2.5px rgb(244, 239, 239);
+        border-radius: 20px;
+        display: block;
+        color: rgb(8, 8, 8);
+    }
+
+
+    h2 {
+        font-size: 18px;
+        margin-left: 12px;
+        columns: 2;
+        margin-top: 60px;
+        color: black;
+    
+    }
+
+    
 }
