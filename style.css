@@ -190,6 +190,7 @@ h3 {
         color: black;
 
     }
+
     footer {
         margin-left: 50px;
         font-size: 20px;
@@ -217,14 +218,14 @@ h3 {
     }
 
     p {
-        position: fixed;
+        position: static;
         top: 450px;
         left: 10px;
         font-size: 12.5px;
         line-height: 25px;
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
         text-indent: 1em;
-    
+        padding: 10px;
     }
 
     video {
@@ -233,7 +234,7 @@ h3 {
         top: 700px;
         border-radius: 35px;
         left: 77px;
-    
+
     }
 
     .formb {
@@ -246,12 +247,11 @@ h3 {
         font-size: 15px;
         cursor: grab;
         position: fixed;
-      
-        
-    
-    
-    
+        margin-top: 500px;
+
+
+
+
+
     }
 }
-
-    
