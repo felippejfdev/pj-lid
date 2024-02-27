@@ -51,6 +51,7 @@ h2 {
 .wp {
     margin: 5px;
     font-family: 'Lemon', serif;
+
 }
 
 .is {
@@ -163,7 +164,7 @@ h3 {
 
 
 
-@media screen and (min-width:300px) and  (max-width:900px)  {
+@media screen and (min-width:300px) and (max-width:700px) {
     nav {
         background-color: rgb(242, 28, 145);
         height: 160px;
@@ -179,7 +180,7 @@ h3 {
     h1 {
         font-family: 'Lemon', serif;
         margin-left: 11px;
-        font-size: 25px;
+        font-size: 29px;
         top: 50px;
         position: absolute;
         text-align: center;
@@ -196,7 +197,7 @@ h3 {
         margin-top: 57px;
         color: black;
         letter-spacing: 0.5px;
-
+        columns: 2;
 
 
 
@@ -292,7 +293,7 @@ h3 {
         color: rgb(228, 234, 234);
         margin-left: 30px;
         position: absolute;
-        bottom: -450px;
+        bottom: -290px;
         font-size: 18px;
 
 
@@ -301,10 +302,13 @@ h3 {
     h3 {
         color: aliceblue;
         position: absolute;
-        bottom: -220px;
+        bottom: -80px;
         margin-left: 18px;
         font-size: 16.5px;
         font-family: 'Courier New', Courier, monospace;
 
     }
+
+
+
 }
