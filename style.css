@@ -156,7 +156,7 @@ h3 {
 
 
 
-@media screen and (min-width:375px) and (max-width:1000px) {
+@media screen and  (max-width:900px) {
     nav {
         background-color: rgb(242, 28, 145);
         height: 160px;
@@ -283,7 +283,7 @@ h3 {
         color: rgb(228, 234, 234);
         margin-left: 30px;
         position: absolute;
-        bottom: -250px;
+        bottom: -450px;
         font-size: 18px;
 
 
@@ -292,7 +292,7 @@ h3 {
     h3 {
         color: aliceblue;
         position: absolute;
-        bottom: -10px;
+        bottom: -220px;
         margin-left: 18px;
         font-size: 16.5px;
         font-family: 'Courier New', Courier, monospace;
