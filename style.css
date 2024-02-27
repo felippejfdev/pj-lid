@@ -155,11 +155,10 @@ h3 {
 
 
 
-@media screen and (max-width:700px) {
+@media screen and (max-width:500px) {
     nav {
         background-color: rgb(242, 28, 145);
         height: 160px;
-        width: 590px;
         text-decoration: none;
         border: none;
         border-radius: 20px;
