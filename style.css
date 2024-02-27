@@ -106,7 +106,8 @@ video {
     bottom: 312px;
     border-radius: 35px;
     left: 17px;
-    background-image: url(./assets/foto\ lidia.jpg);
+    top: 100px;
+
 
 }
 
@@ -119,6 +120,9 @@ video {
     color: white;
     font-size: 17px;
     cursor: grab;
+    position: fixed;
+    margin-left: 1270px;
+    margin-top: -40px;
 
 
 
@@ -131,7 +135,9 @@ video {
     border: none;
     padding: 10px;
     cursor: text;
-
+    margin-left: 1100px;
+    position: fixed;
+    margin-top: -40px;
 
 }
 
@@ -239,7 +245,7 @@ h3 {
         top: 700px;
         border-radius: 35px;
         left: 77px;
-        background-image: url(./assets/foto\ lidia.jpg);
+
 
     }
 
