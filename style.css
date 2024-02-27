@@ -159,7 +159,7 @@ h3 {
     nav {
         background-color: rgb(242, 28, 145);
         height: 180px;
-        width: 390px;
+        width: 100vw;
         text-decoration: none;
         border: none;
         border-radius: 20px;
