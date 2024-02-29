@@ -5,7 +5,7 @@
 
 
 
-let p = document.getElementById("#p")
+let p = document.querySelector("#p")
 let input = document.querySelector("input")
 
 function search() {
@@ -22,7 +22,16 @@ function search() {
         { name: "Bronze W150" },
     ]
 
+    for (let i = 0; i < bases.length; i++) {
+        if (input.value.toLowerCase() === bases[i].name.toLowerCase()) {
+            p.innerHTML = `${bases[i].name} : Base disponível, entrar em contato com o vendedor(a)`
+            break
 
+        }
+        else {
+            `Base indisponível no momento`
+        }
+    }
 
 }
 
