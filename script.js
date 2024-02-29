@@ -29,7 +29,7 @@ function search() {
 
         }
         else {
-            `Base indisponível no momento`
+            p.innerHTML = `Base indisponível no momento`
         }
     }
 
