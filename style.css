@@ -204,7 +204,7 @@ h3 {
     }
 
     footer {
-        margin-left: 50px;
+        margin-left: 55px;
         font-size: 20px;
         color: rgb(255, 255, 255);
         font-family: 'Lemon', serif;
@@ -263,7 +263,7 @@ h3 {
         font-size: 15px;
         cursor: grab;
         position: absolute;
-        margin-top: 850px;
+        margin-top: 770px;
         margin-left: 5px;
 
 
@@ -283,7 +283,7 @@ h3 {
         padding: 10px;
         cursor: text;
         position: absolute;
-        margin-top: 850px;
+        margin-top: 770px;
         margin-left: 90px;
 
 
