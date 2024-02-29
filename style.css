@@ -241,11 +241,14 @@ h3 {
     }
 
     video {
-        width: 180px;
+
         position: static;
         top: 700px;
         border-radius: 35px;
         left: 77px;
+        height: 180px;
+        width: 370px;
+
 
 
     }
