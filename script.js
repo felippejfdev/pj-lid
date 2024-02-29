@@ -19,7 +19,7 @@ function search() {
         { name: "Beige N200" },
         { name: "Beige N210" },
         { name: "Bronze W110" },
-        { name: "Bronze W150" },
+        { name: "" },
     ]
 
     for (let i = 0; i < bases.length; i++) {
