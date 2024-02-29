@@ -19,7 +19,7 @@ function search() {
         { name: "Beige N200" },
         { name: "Beige N210" },
         { name: "Bronze W110" },
-        
+        { name: "Bronze w150" },
     ]
 
     for (let i = 0; i < bases.length; i++) {
@@ -29,7 +29,7 @@ function search() {
 
         }
         else {
-            p.innerHTML = `Base indisponível no momento`
+            p.innerHTML = `Base indisponível no momento!`
         }
     }
 
