@@ -184,7 +184,7 @@ h3 {
 
     h1 {
         font-family: 'Lemon', serif;
-        margin-left: 11px;
+        margin-left: 40px;
         font-size: 29px;
         top: 50px;
         position: absolute;
@@ -231,7 +231,7 @@ h3 {
         width: 180px;
         border-radius: 30px;
         position: relative;
-        left: 80px;
+        left: 90px;
     }
 
     p {
