@@ -194,6 +194,7 @@ h3 {
         display: block;
         color: rgb(7, 7, 7);
         text-align: center;
+        display: block;
     }
 
 
@@ -234,6 +235,7 @@ h3 {
         position: relative;
         left: 90px;
         text-align: center;
+        display: block;
     }
 
     p {
