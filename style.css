@@ -172,7 +172,8 @@ h3 {
 @media screen and (min-width:300px) and (max-width:900px) {
     nav {
         background-color: rgb(242, 28, 145);
-        height: 160px;
+        height: 155px;
+        width: 370px;
         text-decoration: none;
         border: none;
         border-radius: 20px;
@@ -256,7 +257,7 @@ h3 {
         border-radius: 35px;
         left: 77px;
         height: 180px;
-        width: 370px;
+        width: 360px;
 
 
 
