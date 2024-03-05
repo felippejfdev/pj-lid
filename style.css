@@ -183,6 +183,7 @@ h3 {
     }
 
 
+
     h1 {
         font-family: 'Lemon', serif;
         margin-left: 60px;
@@ -195,7 +196,7 @@ h3 {
         display: block;
         color: rgb(7, 7, 7);
         text-align: center;
-    
+
     }
 
 
@@ -236,7 +237,7 @@ h3 {
         position: relative;
         left: 100px;
         text-align: center;
-        
+
     }
 
     p {
@@ -273,7 +274,7 @@ h3 {
         font-size: 15px;
         cursor: grab;
         position: absolute;
-        margin-top: 710px;
+        margin-top: 770px;
         margin-left: 5px;
 
 
@@ -293,7 +294,7 @@ h3 {
         padding: 10px;
         cursor: text;
         position: absolute;
-        margin-top: 710px;
+        margin-top: 770px;
         margin-left: 90px;
 
 
@@ -306,7 +307,7 @@ h3 {
         color: rgb(228, 234, 234);
         margin-left: 30px;
         position: absolute;
-        bottom: -410px;
+        bottom: -210px;
         font-size: 18px;
 
 
@@ -315,7 +316,7 @@ h3 {
     h3 {
         color: aliceblue;
         position: absolute;
-        bottom: -190px;
+        bottom: 0px;
         margin-left: 18px;
         font-size: 16.5px;
         font-family: 'Courier New', Courier, monospace;
@@ -324,10 +325,10 @@ h3 {
 
     #p {
         width: 400px;
-        margin-left: -21px;
+        margin-left: -18px;
         position: absolute;
         margin-top: 800px;
-        font-size: 10px;
+        font-size: 18px;
     }
 
 
