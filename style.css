@@ -307,7 +307,7 @@ h3 {
         color: rgb(228, 234, 234);
         margin-left: 30px;
         position: absolute;
-        bottom: -450px;
+        bottom: -550px;
         font-size: 18px;
 
 
@@ -316,7 +316,7 @@ h3 {
     h3 {
         color: aliceblue;
         position: absolute;
-        bottom: -240px;
+        bottom: -340px;
         margin-left: 18px;
         font-size: 16.5px;
         font-family: 'Courier New', Courier, monospace;
