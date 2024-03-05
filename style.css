@@ -186,7 +186,7 @@ h3 {
 
     h1 {
         font-family: 'Lemon', serif;
-        margin-left: 60px;
+        margin-left: 70px;
         font-size: 29px;
         top: 50px;
         position: absolute;
@@ -195,7 +195,7 @@ h3 {
         border-radius: 20px;
         display: block;
         color: rgb(7, 7, 7);
-        text-align: center;
+        
 
     }
 
