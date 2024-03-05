@@ -274,7 +274,7 @@ h3 {
         font-size: 15px;
         cursor: grab;
         position: absolute;
-        margin-top: 770px;
+        margin-top: 710px;
         margin-left: 5px;
 
 
@@ -294,7 +294,7 @@ h3 {
         padding: 10px;
         cursor: text;
         position: absolute;
-        margin-top: 770px;
+        margin-top: 710px;
         margin-left: 90px;
 
 
@@ -307,7 +307,7 @@ h3 {
         color: rgb(228, 234, 234);
         margin-left: 30px;
         position: absolute;
-        bottom: -210px;
+        bottom: -450px;
         font-size: 18px;
 
 
@@ -316,7 +316,7 @@ h3 {
     h3 {
         color: aliceblue;
         position: absolute;
-        bottom: 0px;
+        bottom: -240px;
         margin-left: 18px;
         font-size: 16.5px;
         font-family: 'Courier New', Courier, monospace;
